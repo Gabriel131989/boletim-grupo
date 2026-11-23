@@ -1,4 +1,4 @@
-# Autor:
+# Autor: Alessa Vitória Holanda Silva
 
 def situacao(m):
     """Devolve "Aprovado" se a media for 60 ou mais;
